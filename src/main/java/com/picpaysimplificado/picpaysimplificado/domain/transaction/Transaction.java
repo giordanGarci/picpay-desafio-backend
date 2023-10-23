@@ -32,4 +32,5 @@ public class Transaction {
     private BigDecimal amount;
 
     private LocalDateTime timestamp;
+
 }
